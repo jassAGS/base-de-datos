@@ -7,7 +7,7 @@ package com.models;
 
 /**
  *
- * @author jzuniga
+ * @author jassiel
  */
 public class Person {
     private int id;
